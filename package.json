@@ -1,0 +1,30 @@
+{
+  "name": "literary-notes",
+  "version": "1.0.0",
+  "description": "Randomized quotes from the books I read",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jessabean/literary-notes.git"
+  },
+  "keywords": [
+    "gulp",
+    "sass",
+    "mocha",
+    "javascript",
+    "html5"
+  ],
+  "author": "jessabean",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jessabean/literary-notes/issues"
+  },
+  "homepage": "https://github.com/jessabean/literary-notes#readme",
+  "devDependencies": {
+    "express": "^4.14.0",
+    "gulp": "^3.9.1"
+  }
+}
